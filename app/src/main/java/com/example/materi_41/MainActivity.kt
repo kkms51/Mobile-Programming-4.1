@@ -16,11 +16,11 @@ class MainActivity : AppCompatActivity() {
         val imageView2 = findViewById<ImageView>(R.id.imageView2)
 
         imageView1.setOnClickListener {
-            showToast("Ia adalah Steve Jobs")
+            showToast("Steve Jobs ngak sehh")
         }
 
         imageView2.setOnClickListener {
-            showToast("Ia adalah Tim Cook")
+            showToast("Tim Cook kali yee")
         }
     }
 
